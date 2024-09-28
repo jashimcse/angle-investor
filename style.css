@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.headtop{
+    background-color: #0C63D6;
+}
+.custom_logo{
+    color: #B9C7F5;
+}
+.custom_list li .nav-link{
+    color: #B9C7F5;
+}
+.custom_or{
+    color: #B9C7F5;
+}
+.headbutton{
+    padding: 20px 20px;
+
+}
+.headbutton button{
+    color: #ffffff;
+}
+.custom_hovar:hover{
+    background-color: #ffffff;
+    color: #2A7BE2;
+}
+.angle{
+    background-color: #0C63D6;
+    padding-bottom: 100px;
+}
+.custom_image img{
+    width: 100%;
+    height: auto;
+}
+
+.custom_content{
+    padding-left: 47px;
+    padding-top: 78px;
+    color: #ffffff;
+}
+.custom_head h1{
+    color: #ffffff;
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    line-height: 1.5;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+.custom_head p{
+    color: #ffffff;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+.custom_button button{
+    color: #ffffff;
+}
+.active_card{
+    ba
+    margin: 60px 0px;
+    transform: skew(0deg, 9deg) translateY(-82px);
+}
+.card_images img{
+    width: 100%;
+    height: auto;
+}
+.custom_card{
+    position: relative;
+}
+.custom_images img{
+    position: absolute;
+    width: 20%;
+    height: auto;
+    left: 40px;
+    top: 200px;
+}
+.extra_button{
+    position: absolute;
+    right: 10px;
+    top: 20px;
+}
+.custom_Pipeline{
+    padding-top: 30px;
+}
+.card_list ul{
+    list-style: none;
+}
+.custom_icon{
+    color: #0C63D6;
+    padding-right: 10px;
+}
+.progress-bar{
+    width: 70%;
+    height: 4px;
+    border-radius: 5px;
+    margin: 30px 0px 15px 0px;
+}
+.custom_btn{
+    color: #0C63D6;
+}
+.card_button{
+    padding: 20px 10px;
+    text-align: center;
+}
+.card_button button{
+    padding: 10px 20px;
+    border-color: #ffffff;
+    box-shadow: 0px 0px 5px 1px rgb(0, 0, 0, 0.2);
+}
+.join{
+    background-color: #0C63D6;
+}
+.custom_join_img{
+    float: right;
+}
+.join{
+    background-color: #0C63D6;
+    background-image:url(Asset/Images/07.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 460px 300px;
+}
+.join_text{
+    padding: 60px 10px;
+   
+}
+.join_text h1{
+    color: #ffffff;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    line-height: 1.5;
+    text-decoration: none;
+    text-transform: capitalize;
+
+}
+.join_button {
+    padding: 30px;
+} 
